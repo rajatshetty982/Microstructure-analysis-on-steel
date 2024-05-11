@@ -2,5 +2,5 @@
  This study aims to develop a machine learning-based model for predicting tensile strenth and Rockwell Hardness Number from microstructural/Heat Treatment data of steel, addressing the need for improved material characterization techniques. Previous research has primarily focused on characterizing or predicting material properties based on process parameters but overlooked the potential of leveraging microstructural data for material property prediction.
 
  The study compares various feature extraction techniques, such as Histogram of Oriented Gradients (HOG), and transfer learning with VGG16 and EfficientNetB0, to extract relevant features from microstructural images and the numerical data of heat treatment and such. These features were subsequently combined with machine learning prediction models such as fully connected neural networks (FCNN), random forest (RF) regression, and support vector regression (SVR), to predict the tensile strength/harness number.
- 
-The novel approach of harnessing microstructural data and machine learning techniques for predicting material properties offers a non-destructive, cost-effective, and efficient method of material property prediction, which could have significant implications for materials scienc
+
+The novel approach of harnessing microstructural data and machine learning techniques for predicting material properties offers a non-destructive, cost-effective, and efficient method of material property prediction, which could have significant implications for materials science.0
